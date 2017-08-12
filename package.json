@@ -1,5 +1,5 @@
 {
-  "name": "collection_manager",
+  "name": "artwork_schema_1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,8 +13,6 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "express-handlebars": "^3.0.0",
-    "mongodb": "^2.2.31",
-    "mongoose": "^4.11.6",
-    "routes": "^2.1.0"
+    "mongoose": "^4.10.8"
   }
 }
