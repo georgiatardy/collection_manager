@@ -3,14 +3,9 @@ body {
   flex-flow: column wrap;
   align-items: left;
   justify-content: center;
-  background-color: #ED600E);
   font-size: 23px;
   font-family: sans-serif;
 }
-
-/*span {
-  margin: 1% 0;
-}*/
 
 .container {
   display: flex;
@@ -23,11 +18,11 @@ body {
   flex-flow: column wrap;
   align-items: center;
   justify-content: center;
-  border: 1px solid purple;
-  background-color: lavender;
+  border: black;
+  background-color:  #334100;
   border-radius: 10px;
   margin: 2%;
-  padding: 2%;
+  padding: 5%;
   flex-grow: 1;
   flex-shrink: 1;
 }
